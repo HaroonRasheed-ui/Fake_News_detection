@@ -60,7 +60,7 @@ To run this project locally, you need Python installed. Follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/fake_news_detection.git
+git clone https://github.com/HaroonRasheed-ui/Fake_News_detection.git
 cd fake_news_detection
 Install the required packages:
 
